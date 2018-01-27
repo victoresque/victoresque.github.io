@@ -1,0 +1,2041 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-28T01:31:49+08:00</updated><id>/</id><title type="html">Victoresque</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Pinned 0</title><link href="/p0" rel="alternate" type="text/html" title="Pinned 0" /><published>2999-01-01T00:00:00+08:00</published><updated>2999-01-01T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/p0"></content><author><name></name></author></entry><entry><title type="html">Pinned 1</title><link href="/p1" rel="alternate" type="text/html" title="Pinned 1" /><published>2018-01-29T00:00:00+08:00</published><updated>2018-01-29T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/p1">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 6</title><link href="/elements-reference-6" rel="alternate" type="text/html" title="Elements Reference 6" /><published>2018-01-19T00:00:00+08:00</published><updated>2018-01-19T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-6">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 5</title><link href="/elements-reference-5" rel="alternate" type="text/html" title="Elements Reference 5" /><published>2018-01-18T00:00:00+08:00</published><updated>2018-01-18T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-5">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 4</title><link href="/elements-reference-4" rel="alternate" type="text/html" title="Elements Reference 4" /><published>2018-01-17T00:00:00+08:00</published><updated>2018-01-17T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-4">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 3</title><link href="/elements-reference-3" rel="alternate" type="text/html" title="Elements Reference 3" /><published>2018-01-16T00:00:00+08:00</published><updated>2018-01-16T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-3">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 2</title><link href="/elements-reference-2" rel="alternate" type="text/html" title="Elements Reference 2" /><published>2018-01-15T00:00:00+08:00</published><updated>2018-01-15T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-2">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 1</title><link href="/elements-reference-1" rel="alternate" type="text/html" title="Elements Reference 1" /><published>2018-01-14T00:00:00+08:00</published><updated>2018-01-14T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-1">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry><entry><title type="html">Elements Reference 0</title><link href="/elements-reference-0" rel="alternate" type="text/html" title="Elements Reference 0" /><published>2018-01-13T00:00:00+08:00</published><updated>2018-01-13T00:00:00+08:00</updated><id>/elements</id><content type="html" xml:base="/elements-reference-0">&lt;!-- Text stuff --&gt;
+&lt;h2&gt;Text 2&lt;/h2&gt;
+&lt;p&gt;This is &lt;b&gt;bold&lt;/b&gt; and this is &lt;strong&gt;strong&lt;/strong&gt;. This is &lt;i&gt;italic&lt;/i&gt; and this is &lt;em&gt;emphasized&lt;/em&gt;.
+	This is &lt;sup&gt;superscript&lt;/sup&gt; text and this is &lt;sub&gt;subscript&lt;/sub&gt; text.
+	This is &lt;u&gt;underlined&lt;/u&gt; and this is code: &lt;code&gt;for (;;) { ... }&lt;/code&gt;.
+	Finally, this is a &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+	&lt;hr /&gt;
+	&lt;h2&gt;Heading Level 2&lt;/h2&gt;
+	&lt;h3&gt;Heading Level 3&lt;/h3&gt;
+	&lt;hr /&gt;
+	&lt;header&gt;
+		&lt;h2&gt;Heading with a Subtitle&lt;/h2&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet nullam id egestas urna aliquam&lt;/p&gt;
+	&lt;/header&gt;
+	&lt;p&gt;Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.&lt;/p&gt;
+	&lt;hr /&gt;
+	
+	&lt;!-- Lists --&gt;
+	&lt;h2&gt;Lists&lt;/h2&gt;
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Unordered&lt;/h3&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Sagittis lorem eleifend.&lt;/li&gt;
+				&lt;li&gt;Felis feugiat dolore viverra.&lt;/li&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+			&lt;/ul&gt;
+			
+			&lt;h3&gt;Icons&lt;/h3&gt;
+			&lt;ul class=&quot;icons&quot;&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-twitter&quot;&gt;&lt;span class=&quot;label&quot;&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-facebook&quot;&gt;&lt;span class=&quot;label&quot;&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-instagram&quot;&gt;&lt;span class=&quot;label&quot;&gt;Instagram&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-github&quot;&gt;&lt;span class=&quot;label&quot;&gt;Github&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;icon fa-dribbble&quot;&gt;&lt;span class=&quot;label&quot;&gt;Dribbble&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+		&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+			
+			&lt;h3&gt;Ordered&lt;/h3&gt;
+			&lt;ol&gt;
+				&lt;li&gt;Dolor pulvinar etiam.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis at viverra.&lt;/li&gt;
+				&lt;li&gt;Felis enim feugiat magna.&lt;/li&gt;
+				&lt;li&gt;Etiam vel felis nullam.&lt;/li&gt;
+				&lt;li&gt;Felis enim et tempus.&lt;/li&gt;
+			&lt;/ol&gt;
+		
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;h3&gt;Definition&lt;/h3&gt;
+	&lt;dl&gt;
+		&lt;dt&gt;Item 1&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 2&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+		&lt;dt&gt;Item 3&lt;/dt&gt;
+		&lt;dd&gt;
+			&lt;p&gt;Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.&lt;/p&gt;
+		&lt;/dd&gt;
+	&lt;/dl&gt;
+	
+	&lt;h3&gt;Button&lt;/h3&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button&quot;&gt;Button&lt;/a&gt;
+		&lt;a href=&quot;#&quot; class=&quot;button icon fa-search&quot;&gt;Icon&lt;/a&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Blockquote --&gt;
+	&lt;h2&gt;Blockquote&lt;/h2&gt;
+	&lt;blockquote&gt;Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.&lt;/blockquote&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Table --&gt;
+	&lt;h2&gt;Table&lt;/h2&gt;
+	&lt;div class=&quot;table-wrapper&quot;&gt;
+		&lt;table&gt;
+			&lt;thead&gt;
+				&lt;tr&gt;
+					&lt;th&gt;Name&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+				&lt;/tr&gt;
+			&lt;/thead&gt;
+			&lt;tbody&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 1&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 2&lt;/td&gt;
+					&lt;td&gt;Vis ac commodo adipiscing arcu aliquet.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 3&lt;/td&gt;
+					&lt;td&gt; Morbi faucibus arcu accumsan lorem.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 4&lt;/td&gt;
+					&lt;td&gt;Vitae integer tempus condimentum.&lt;/td&gt;
+					&lt;td&gt;19.99&lt;/td&gt;
+				&lt;/tr&gt;
+				&lt;tr&gt;
+					&lt;td&gt;Item 5&lt;/td&gt;
+					&lt;td&gt;Ante turpis integer aliquet porttitor.&lt;/td&gt;
+					&lt;td&gt;29.99&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tbody&gt;
+			&lt;tfoot&gt;
+				&lt;tr&gt;
+					&lt;td colspan=&quot;2&quot;&gt;&lt;/td&gt;
+					&lt;td&gt;100.00&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/tfoot&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Form --&gt;
+	&lt;h2&gt;Form&lt;/h2&gt;
+	
+	&lt;form method=&quot;post&quot; action=&quot;#&quot;&gt;
+		&lt;div class=&quot;row uniform&quot;&gt;
+			&lt;div class=&quot;6u 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;text&quot; name=&quot;demo-name&quot; id=&quot;demo-name&quot; value=&quot;&quot; placeholder=&quot;Name&quot; /&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(xsmall)&quot;&gt;
+				&lt;input type=&quot;email&quot; name=&quot;demo-email&quot; id=&quot;demo-email&quot; value=&quot;&quot; placeholder=&quot;Email&quot; /&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;select-wrapper&quot;&gt;
+					&lt;select name=&quot;demo-category&quot; id=&quot;demo-category&quot;&gt;
+						&lt;option value=&quot;&quot;&gt;- Category -&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Manufacturing&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Shipping&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Administration&lt;/option&gt;
+						&lt;option value=&quot;1&quot;&gt;Human Resources&lt;/option&gt;
+					&lt;/select&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-low&quot; name=&quot;demo-priority&quot; checked&gt;
+				&lt;label for=&quot;demo-priority-low&quot;&gt;Low&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-normal&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-normal&quot;&gt;Normal&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;radio&quot; id=&quot;demo-priority-high&quot; name=&quot;demo-priority&quot;&gt;
+				&lt;label for=&quot;demo-priority-high&quot;&gt;High&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;6u 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-copy&quot; name=&quot;demo-copy&quot;&gt;
+				&lt;label for=&quot;demo-copy&quot;&gt;Email me a copy&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;6u$ 12u$(small)&quot;&gt;
+				&lt;input type=&quot;checkbox&quot; id=&quot;demo-human&quot; name=&quot;demo-human&quot; checked&gt;
+				&lt;label for=&quot;demo-human&quot;&gt;I am a human&lt;/label&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;textarea name=&quot;demo-message&quot; id=&quot;demo-message&quot; placeholder=&quot;Enter your message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+			&lt;!-- Break --&gt;
+			&lt;div class=&quot;12u$&quot;&gt;
+				&lt;div class=&quot;actions&quot;&gt;
+					&lt;input type=&quot;submit&quot; value=&quot;Send Message&quot; class=&quot;special&quot; /&gt;
+					&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Image --&gt;
+	&lt;h2&gt;Image&lt;/h2&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;Ipsum Feugiat&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Ipsum Feugiat&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;Rhoncus Semper&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Rhoncus Semper&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic04.jpg&quot; alt=&quot;Magna Nullam&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Magna Nullam&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic05.jpg&quot; alt=&quot;Natoque Vitae&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Natoque Vitae&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(mobile)&quot;&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic06.jpg&quot; alt=&quot;Dolor Penatibus&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Dolor Penatibus&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;item&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/assets/images/pic07.jpg&quot; alt=&quot;Orci Convallis&quot; /&gt;&lt;/a&gt;
+        &lt;header&gt;
+          &lt;h3&gt;Orci Convallis&lt;/h3&gt;
+        &lt;/header&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+	
+	&lt;h3&gt;Left &amp;amp; Right&lt;/h3&gt;
+	&lt;p&gt;&lt;span class=&quot;image left&quot;&gt;&lt;img src=&quot;/assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	&lt;p&gt;&lt;span class=&quot;image right&quot;&gt;&lt;img src=&quot;/assets/images/pic02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.&lt;/p&gt;
+	
+	&lt;hr /&gt;
+	
+	&lt;!-- Preformatted Code --&gt;
+	&lt;h2&gt;Preformatted&lt;/h2&gt;
+	&lt;pre&gt;&lt;code&gt;i = 0;
+
+while (!deck.isInOrder()) {
+	print 'Iteration ' + i;
+	deck.shuffle();
+	i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Text 2 This is bold and this is strong. This is italic and this is emphasized. This is superscript text and this is subscript text. This is underlined and this is code: for (;;) { ... }. Finally, this is a link. Heading Level 2 Heading Level 3 Heading with a Subtitle Lorem ipsum dolor sit amet nullam id egestas urna aliquam Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan. Lists Unordered Dolor pulvinar etiam. Sagittis lorem eleifend. Felis feugiat dolore viverra. Dolor pulvinar etiam. Icons Twitter Facebook Instagram Github Dribbble Ordered Dolor pulvinar etiam. Etiam vel felis at viverra. Felis enim feugiat magna. Etiam vel felis nullam. Felis enim et tempus. Definition Item 1 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 2 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Item 3 Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Button Button Icon Blockquote Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis. Table Name Description Price Item 1 Ante turpis integer aliquet porttitor. 29.99 Item 2 Vis ac commodo adipiscing arcu aliquet. 19.99 Item 3 Morbi faucibus arcu accumsan lorem. 29.99 Item 4 Vitae integer tempus condimentum. 19.99 Item 5 Ante turpis integer aliquet porttitor. 29.99 100.00 Form - Category - Manufacturing Shipping Administration Human Resources Low Normal High Email me a copy I am a human Image Ipsum Feugiat Rhoncus Semper Magna Nullam Natoque Vitae Dolor Penatibus Orci Convallis Left &amp;amp; Right Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis. Preformatted i = 0; while (!deck.isInOrder()) { print 'Iteration ' + i; deck.shuffle(); i++; } print 'It took ' + i + ' iterations to sort the deck.';</summary></entry></feed>
