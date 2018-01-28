@@ -1,3 +1,9 @@
 # Victoresque
 
-See https://github.com/victoresque/victoresque.github.io-dev for development details
+Personal website
+
+Built by Jekyll: https://jekyllrb.com/
+
+Based on "Prologue" theme: https://github.com/chrisbobbe/jekyll-theme-prologue
+
+Using jekyll-paginate-v2 for pagination: https://github.com/sverrirs/jekyll-paginate-v2
