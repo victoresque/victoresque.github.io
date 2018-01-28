@@ -74,13 +74,13 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 <div id="main"><!-- Sections --><section id="intro" class="shade-one cover dark">
   <div class="container"><img src="/assets/images/banner.jpg" alt="Banner" class="back"><header style="user-select: none;">
   <h2 class="alt"><strong style="color:#464646; font-size:150%;">Victoresque</strong></h2>
-  <p style="color:#464646;">
+  <p style="color:#333;">
     Coffee 
-    <i class="fa fa-coffee" style="font-size:65%;"></i> ,
+    <i class="fa fa-coffee" style="font-size:65%;"></i>.
     programming 
-    <i class="fa fa-code" style="font-size:75%;"></i> ,
+    <i class="fa fa-code" style="font-size:75%;"></i>.
     drawing 
-    <i class="fa fa-pencil" style="font-size:65%;"></i> ,
+    <i class="fa fa-pencil" style="font-size:65%;"></i>.
     photography 
     <i class="fa fa-camera" style="font-size:65%;"></i>  ... 
     and more coffee</p>
@@ -91,19 +91,36 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 <section id="portfolio" class="shade-two">
   <div class="container"><header>
 			<h2>Portfolio</h2></header><!-- Projects -->
-<div>
-  <h3>Projects</h3>
-  <h4>Some random stuff</h4>
-  <hr>
+<div class="row">
+  <div class="4u 12u$(mobile)">
+    <div class="item"></div>
+  </div>
+  <div class="4u 12u$(mobile)">
+    <div>
+      <h3>Projects</h3>
+      <h4>Some random stuff</h4>
+      <hr>
+    </div>
+  </div>
+  <div class="4u 12u$(mobile)">
+    <div class="item"></div>
+  </div>
 </div>
 <div class="row">
   <!-- Projects: Column 1 -->
   <div class="4u 12u$(mobile)">
     <!-- Projects: Column 1-1 -->
     <div class="item">
-      <a href="/portfolio/01" class="image fit"><img src="/assets/images/projects/QuadtreeCollision/quadtreevis.gif" alt="Quadtree Collision" /></a>
+      <a href="/portfolio/01" class="image fit"><img src="/assets/images/projects/QuadtreeCollision/quadtreevis.gif" alt="visualizing quadtree" /></a>
       <header>
         <h3>Quadtree Collision</h3>
+      </header>
+    </div>
+    <!-- Projects: Column 1-2 -->
+    <div class="item">
+      <a href="/portfolio/01" class="image fit"><img src="/assets/images/gradient/pic05.jpg" alt="data structure and programming" /></a>
+      <header>
+        <h3>Course Project: DSnP</h3>
       </header>
     </div>
   </div>
@@ -111,9 +128,20 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
   <div class="4u 12u$(mobile)">
     <!-- Projects: Column 2-1 -->
     <div class="item">
-      <a href="#" class="image fit"><img src="/assets/images/pic05.jpg" alt="Magna Nullam" /></a>
+      <a href="#" class="image fit">
+          <video style="width:100%; display:block;" src="/assets/images/projects/FPGARenderer/deer.mov" 
+          alt="a rendered deer rotating" autoplay loop preload>
+          </video>
+      </a>
       <header>
         <h3>Real-time Rendering on FPGA</h3>
+      </header>
+    </div>
+    <!-- Projects: Column 2-2 -->
+    <div class="item">
+      <a href="/portfolio/01" class="image fit"><img src="/assets/images/gradient/pic03.jpg" alt="digital circuits lab" /></a>
+      <header>
+        <h3>Course Project: DCLab</h3>
       </header>
     </div>
   </div>
@@ -121,33 +149,59 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
   <div class="4u 12u$(mobile)">
     <!-- Projects: Column 3-1 -->
     <div class="item">
-      <a href="#" class="image fit"><img src="/assets/images/pic06.jpg" alt="Dolor Penatibus" /></a>
+      <a href="#" class="image fit">
+        <img src="/assets/images/gradient/pic06.jpg" alt="6-dof object pose estimation" />
+      </a>
       <header>
         <h3>6-DoF Object Pose Estimation</h3>
+      </header>
+    </div>
+    <!-- Projects: Column 3-2 -->
+    <div class="item">
+      <a href="/portfolio/01" class="image fit"><img src="/assets/images/gradient/pic02.jpg" alt="machine learning" /></a>
+      <header>
+        <h3>Course Project: Machine Learning</h3>
       </header>
     </div>
   </div>
 </div>
 
 <!-- Artwork -->
-<div>
-  <h3>Artwork</h3>
-  <h4>Art? Nah ... just doodling</h4>
-  <hr>
-</div>
+<div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item"></div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div>
+        <h3>Art &amp; Life</h3>
+        <h4>Art? Nah ... just doodling</h4>
+        <hr>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item"></div>
+    </div>
+  </div>
 <div class="row">
   <!-- Artwork: Column 1 -->
-  <div class="3u">
+  <div class="4u 12u$(mobile)">
     <!-- Artwork: Column 1-1 -->
     <div class="item">
-      <a href="/portfolio/01" class="image fit"><img src="/assets/images/drawing/crystallized.jpg" alt="quadtree collision" /></a>
+      <a href="/portfolio/01" class="image fit"><img src="/assets/images/drawing/hana.jpg" alt="Hana" /></a>
       <header>
-        <h3>Crystallized</h3>
+        <h3>Hana</h3>
+      </header>
+    </div>
+    <!-- Artwork: Column 1-2 -->
+    <div class="item">
+      <a href="/portfolio/01" class="image fit"><img src="/assets/images/photo/snow-in-shirakawago.jpg" alt="Snow in Shirakawa-go " /></a>
+      <header>
+        <h3>Snow in Shirakawa-go</h3>
       </header>
     </div>
   </div>
   <!-- Artwork: Column 2 -->
-  <div class="5u">
+  <div class="4u 12u$(mobile)">
     <!-- Artwork: Column 2-1 -->
     <div class="item">
       <a href="#" class="image fit"><img src="/assets/images/drawing/rain-wonder.jpg" alt="rain wonder" /></a>
@@ -155,14 +209,28 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
         <h3>Rain Wonder</h3>
       </header>
     </div>
+    <!-- Artwork: Column 2-2 -->
+    <div class="item">
+      <a href="#" class="image fit"><img src="/assets/images/photo/misty-woods.jpg" alt="misty woods" /></a>
+      <header>
+        <h3>Misty Woods</h3>
+      </header>
+    </div>
   </div>
   <!-- Artwork: Column 3 -->
-  <div class="4u">
+  <div class="4u 12u$(mobile)">
     <!-- Artwork: Column 3-1 -->
     <div class="item">
-      <a href="#" class="image fit"><img src="/assets/images/pic04.jpg" alt="daily sketches" /></a>
+      <a href="#" class="image fit"><img src="/assets/images/gradient/pic04.jpg" alt="daily sketches" /></a>
       <header>
         <h3>Daily Sketches</h3>
+      </header>
+    </div>
+    <!-- Artwork: Column 3-2 -->
+    <div class="item">
+      <a href="#" class="image fit"><img src="/assets/images/photo/food/Go-Eat-Tapas.png" alt="eat travel love" /></a>
+      <header>
+        <h3>Eat. Travel. Love</h3>
       </header>
     </div>
   </div>
@@ -171,13 +239,19 @@ Jekyll integration by Chris Bobbe | chrisbobbe.github.io
 </section>
 <section id="about-me" class="shade-three">
   <div class="container"><header>
-			<h2>About Me</h2></header><p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus
-ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae
-laoreet eget cubilia quam non etiam odio tincidunt montes. Elementum sem
-parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper
-dolor. Libero rutrum ut lacinia donec curae mus vel quisque sociis nec
-ornare iaculis.</p>
-<img src="assets/images/drawing/hana.jpg" alt="A crystal flower" width="100"/>
+			<h2>About Me</h2></header><div class="row">
+  <div class="4u 12u$(mobile)">
+      <div class="item image fit">
+        <img src="assets/images/about-me.jpg" alt="about me" style="padding: 5px 5px 25px; background-color:rgba(252, 243, 232, 0.582);">
+      </div>
+  </div>
+  <div class="8u 12u$(mobile)">
+    <div style="text-align:left;">
+        <p>Tincidunt eu elit diam magnis pretium accumsan etiam id urna. Ridiculus ultricies curae quis et rhoncus velit. Lobortis elementum aliquet nec vitae laoreet eget cubilia quam non etiam odio tincidunt montes. Elementum sem parturient nulla quam placerat viverra mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia donec curae mus vel quisque sociis nec ornare iaculis.</p>
+    </div>
+  </div>
+</div>
+
 </div>
 </section>
 </div><!-- Footer -->
