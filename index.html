@@ -2,8 +2,21 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>GAI quiz redirect page</h1>
+
+<script>
+  var sites = [
+      'http://www.google.com',
+      'https://docs.google.com/forms/d/e/1FAIpQLSfCBxD2qIX-DwY0MEDzVpuGTH0sspu39Qtb7n1thtTz93bH_w/viewform'
+  ];
+
+  function randomSite() {
+      var i = parseInt(Math.random() * sites.length);
+      location.href = sites[i];
+  }
+  
+  randomSite();
+</script>
 
 </body>
 </html>
